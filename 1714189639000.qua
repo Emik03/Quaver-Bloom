@@ -740,11 +740,6 @@ HitObjects:
   KeySounds: []
   EditorLayer: 4
 - StartTime: 18394
-  Lane: 1
-  HitSound: Whistle
-  KeySounds: []
-  EditorLayer: 1
-- StartTime: 18394
   Lane: 3
   HitSound: Clap
   KeySounds: []
