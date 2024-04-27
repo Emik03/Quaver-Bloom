@@ -265,6 +265,11 @@ HitObjects:
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
+- StartTime: 3618
+  Lane: 2
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
 - StartTime: 4794
   Lane: 1
   HitSound: Normal, Whistle
@@ -330,8 +335,13 @@ HitObjects:
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
-- StartTime: 6794
+- StartTime: 6810
   Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 6810
+  Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
@@ -345,23 +355,33 @@ HitObjects:
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 1
-- StartTime: 9694
+- StartTime: 9652
   Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
-- StartTime: 9794
+- StartTime: 9743
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
-- StartTime: 9894
+- StartTime: 9768
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
-- StartTime: 9994
+- StartTime: 9827
+  Lane: 2
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 10018
   Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 10018
+  Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
@@ -2105,11 +2125,6 @@ HitObjects:
   Lane: 4
   KeySounds: []
   EditorLayer: 2
-- StartTime: 75202
-  Lane: 1
-  HitSound: Whistle
-  KeySounds: []
-  EditorLayer: 1
 - StartTime: 75369
   Lane: 1
   HitSound: Whistle
@@ -2879,11 +2894,481 @@ HitObjects:
   HitSound: Clap
   KeySounds: []
   EditorLayer: 4
-- StartTime: 102394
-  Lane: 2
-  HitSound: Finish
+- StartTime: 102401
+  Lane: 1
+  HitSound: Whistle
   KeySounds: []
-  EditorLayer: 3
+  EditorLayer: 1
+- StartTime: 102498
+  Lane: 2
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 102590
+  Lane: 3
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 102690
+  Lane: 4
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 102798
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 102798
+  Lane: 2
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 103993
+  Lane: 1
+  HitSound: Normal, Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 105593
+  Lane: 1
+  HitSound: Normal, Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 105651
+  Lane: 2
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 105742
+  Lane: 3
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 105767
+  Lane: 4
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 105826
+  Lane: 2
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 106017
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 106017
+  Lane: 2
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 107193
+  Lane: 1
+  HitSound: Normal, Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 107993
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 108093
+  Lane: 2
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 108193
+  Lane: 3
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 108293
+  Lane: 4
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 108393
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 108493
+  Lane: 2
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 108593
+  Lane: 3
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 108693
+  Lane: 4
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 108793
+  Lane: 1
+  HitSound: Normal, Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 108893
+  Lane: 2
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 108993
+  Lane: 3
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 109093
+  Lane: 4
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 109209
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 109209
+  Lane: 2
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 110393
+  Lane: 1
+  HitSound: Normal, Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 111993
+  Lane: 1
+  HitSound: Normal, Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 112051
+  Lane: 2
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 112142
+  Lane: 3
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 112167
+  Lane: 4
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 112226
+  Lane: 2
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 112417
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 112417
+  Lane: 2
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 113593
+  Lane: 1
+  HitSound: Normal, Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 114393
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 114493
+  Lane: 2
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 114593
+  Lane: 3
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 114693
+  Lane: 4
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 114793
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 114893
+  Lane: 2
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 114993
+  Lane: 3
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 115093
+  Lane: 4
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 115193
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 115343
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 115501
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 115667
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 115818
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 115993
+  Lane: 4
+  HitSound: Normal, Clap
+  KeySounds: []
+  EditorLayer: 4
+- StartTime: 115993
+  Lane: 3
+  HitSound: Clap
+  KeySounds: []
+  EditorLayer: 4
+- StartTime: 116151
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 116293
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 116459
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 116617
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 116901
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 117593
+  Lane: 4
+  HitSound: Normal, Clap
+  KeySounds: []
+  EditorLayer: 4
+- StartTime: 117593
+  Lane: 3
+  HitSound: Clap
+  KeySounds: []
+  EditorLayer: 4
+- StartTime: 118542
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 118693
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 118859
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 119018
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 119193
+  Lane: 4
+  HitSound: Normal, Clap
+  KeySounds: []
+  EditorLayer: 4
+- StartTime: 119193
+  Lane: 3
+  HitSound: Clap
+  KeySounds: []
+  EditorLayer: 4
+- StartTime: 119343
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 119509
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 119676
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 119843
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 120151
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 120301
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 120451
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 120617
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 120793
+  Lane: 4
+  HitSound: Normal, Clap
+  KeySounds: []
+  EditorLayer: 4
+- StartTime: 120793
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 120793
+  Lane: 3
+  HitSound: Clap
+  KeySounds: []
+  EditorLayer: 4
+- StartTime: 120942
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 121067
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 121192
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 121351
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 121484
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 121743
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 121901
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 122067
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 122218
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 122393
+  Lane: 4
+  HitSound: Normal, Clap
+  KeySounds: []
+  EditorLayer: 4
+- StartTime: 122393
+  Lane: 3
+  HitSound: Clap
+  KeySounds: []
+  EditorLayer: 4
+- StartTime: 122551
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 122693
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 122859
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 123017
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 123301
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 123993
+  Lane: 4
+  HitSound: Normal, Clap
+  KeySounds: []
+  EditorLayer: 4
+- StartTime: 123993
+  Lane: 3
+  HitSound: Clap
+  KeySounds: []
+  EditorLayer: 4
 - StartTime: 124943
   Lane: 1
   HitSound: Whistle
@@ -2904,6 +3389,16 @@ HitObjects:
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
+- StartTime: 125593
+  Lane: 4
+  HitSound: Normal, Clap
+  KeySounds: []
+  EditorLayer: 4
+- StartTime: 125593
+  Lane: 3
+  HitSound: Clap
+  KeySounds: []
+  EditorLayer: 4
 - StartTime: 125744
   Lane: 1
   HitSound: Whistle
@@ -2959,12 +3454,12 @@ HitObjects:
   HitSound: Finish
   KeySounds: []
   EditorLayer: 3
-- StartTime: 127194
+- StartTime: 127193
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 4
-- StartTime: 127194
+- StartTime: 127193
   Lane: 1
   HitSound: Whistle
   KeySounds: []
