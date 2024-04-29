@@ -221,7 +221,8 @@ TimingPoints:
   Bpm: 150
   Hidden: true
 SliderVelocities:
-- Multiplier: 0.44999998807907104
+- StartTime: -10000
+  Multiplier: 0.44999998807907104
 - StartTime: 2
   Multiplier: 0.44999998807907104
 - StartTime: 26.8125
