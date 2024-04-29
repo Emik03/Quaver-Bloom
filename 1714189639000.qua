@@ -36098,16 +36098,6 @@ HitObjects:
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
-- StartTime: 115993
-  Lane: 2
-  HitSound: Normal, Clap
-  KeySounds: []
-  EditorLayer: 4
-- StartTime: 115993
-  Lane: 1
-  HitSound: Clap
-  KeySounds: []
-  EditorLayer: 4
 - StartTime: 116151
   Lane: 3
   HitSound: Whistle
@@ -36133,16 +36123,6 @@ HitObjects:
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
-- StartTime: 117593
-  Lane: 1
-  HitSound: Normal, Clap
-  KeySounds: []
-  EditorLayer: 4
-- StartTime: 117593
-  Lane: 4
-  HitSound: Clap
-  KeySounds: []
-  EditorLayer: 4
 - StartTime: 118542
   Lane: 4
   HitSound: Whistle
@@ -36163,16 +36143,6 @@ HitObjects:
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
-- StartTime: 119193
-  Lane: 2
-  HitSound: Normal, Clap
-  KeySounds: []
-  EditorLayer: 4
-- StartTime: 119193
-  Lane: 1
-  HitSound: Clap
-  KeySounds: []
-  EditorLayer: 4
 - StartTime: 119343
   Lane: 4
   HitSound: Whistle
@@ -36213,16 +36183,6 @@ HitObjects:
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
-- StartTime: 120793
-  Lane: 3
-  HitSound: Normal, Clap
-  KeySounds: []
-  EditorLayer: 4
-- StartTime: 120793
-  Lane: 2
-  HitSound: Clap
-  KeySounds: []
-  EditorLayer: 4
 - StartTime: 120942
   Lane: 1
   HitSound: Whistle
@@ -36268,16 +36228,6 @@ HitObjects:
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
-- StartTime: 122393
-  Lane: 4
-  HitSound: Normal, Clap
-  KeySounds: []
-  EditorLayer: 4
-- StartTime: 122393
-  Lane: 3
-  HitSound: Clap
-  KeySounds: []
-  EditorLayer: 4
 - StartTime: 122551
   Lane: 2
   HitSound: Whistle
@@ -36303,16 +36253,6 @@ HitObjects:
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
-- StartTime: 123993
-  Lane: 1
-  HitSound: Clap
-  KeySounds: []
-  EditorLayer: 4
-- StartTime: 123993
-  Lane: 3
-  HitSound: Normal, Clap
-  KeySounds: []
-  EditorLayer: 4
 - StartTime: 124943
   Lane: 4
   HitSound: Whistle
@@ -36333,16 +36273,6 @@ HitObjects:
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
-- StartTime: 125593
-  Lane: 3
-  HitSound: Normal, Clap
-  KeySounds: []
-  EditorLayer: 4
-- StartTime: 125593
-  Lane: 2
-  HitSound: Clap
-  KeySounds: []
-  EditorLayer: 4
 - StartTime: 125744
   Lane: 1
   HitSound: Whistle
