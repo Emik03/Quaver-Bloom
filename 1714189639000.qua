@@ -36249,61 +36249,62 @@ SliderVelocities:
 - StartTime: 136926.984375
   Multiplier: 5112
 - StartTime: 136927
+  Multiplier: 0.75
 - StartTime: 137193
-  Multiplier: 11575426
+  Multiplier: 11639522
 - StartTime: 137193.015625
 - StartTime: 137229.984375
-  Multiplier: -11575426
+  Multiplier: -11637154
 - StartTime: 137230
-  Multiplier: 11319426
+  Multiplier: 10869154
 - StartTime: 137230.015625
 - StartTime: 137265.984375
-  Multiplier: -11319426
+  Multiplier: -10866850
 - StartTime: 137266
-  Multiplier: 10807426
+  Multiplier: 11122850
 - StartTime: 137266.015625
 - StartTime: 137302.984375
-  Multiplier: -10807426
+  Multiplier: -11120482
 - StartTime: 137303
-  Multiplier: 11063426
+  Multiplier: 11376482
 - StartTime: 137303.015625
 - StartTime: 137338.984375
-  Multiplier: -11063426
+  Multiplier: -11374178
 - StartTime: 137339
-  Multiplier: 11319426
+  Multiplier: 11118178
 - StartTime: 137339.015625
 - StartTime: 137374.984375
-  Multiplier: -11319426
+  Multiplier: -11115874
 - StartTime: 137375
-  Multiplier: 10807426
+  Multiplier: 10859874
 - StartTime: 137375.015625
 - StartTime: 137411.984375
-  Multiplier: -10807426
+  Multiplier: -10857506
 - StartTime: 137412
-  Multiplier: 11063426
+  Multiplier: 11625506
 - StartTime: 137412.015625
 - StartTime: 137447.984375
-  Multiplier: -11063426
+  Multiplier: -11623202
 - StartTime: 137448
-  Multiplier: 11575426
+  Multiplier: 11367202
 - StartTime: 137448.015625
 - StartTime: 137483.984375
-  Multiplier: -11575426
+  Multiplier: -11364898
 - StartTime: 137484
-  Multiplier: 11319426
+  Multiplier: 10852898
 - StartTime: 137484.015625
 - StartTime: 137520.984375
-  Multiplier: -11319426
+  Multiplier: -10850530
 - StartTime: 137521
-  Multiplier: 10807426
+  Multiplier: 11106530
 - StartTime: 137521.015625
 - StartTime: 137556.984375
-  Multiplier: -10807426
+  Multiplier: -11104226
 - StartTime: 137557
-  Multiplier: 11063426
+  Multiplier: 11616226
 - StartTime: 137557.015625
 - StartTime: 137593.984375
-  Multiplier: -11063426
+  Multiplier: -11613858
 - StartTime: 137594
   Multiplier: 201
 - StartTime: 137595.1875
@@ -42046,61 +42047,62 @@ SliderVelocities:
 - StartTime: 149726.984375
   Multiplier: 5112
 - StartTime: 149727
+  Multiplier: 0.75
 - StartTime: 149993
-  Multiplier: 2169551.5
+  Multiplier: 2195215.5
 - StartTime: 149993.015625
 - StartTime: 150029.984375
-  Multiplier: -2169551.5
+  Multiplier: -2192847.5
 - StartTime: 150030
-  Multiplier: 1913551.5
+  Multiplier: 1424847.5
 - StartTime: 150030.015625
 - StartTime: 150065.984375
-  Multiplier: -1913551.5
+  Multiplier: -1422543.5
 - StartTime: 150066
-  Multiplier: 1401551.5
+  Multiplier: 1678543.5
 - StartTime: 150066.015625
 - StartTime: 150102.984375
-  Multiplier: -1401551.5
+  Multiplier: -1676175.5
 - StartTime: 150103
-  Multiplier: 1657551.5
+  Multiplier: 1932175.5
 - StartTime: 150103.015625
 - StartTime: 150138.984375
-  Multiplier: -1657551.5
+  Multiplier: -1929871.5
 - StartTime: 150139
-  Multiplier: 1913551.5
+  Multiplier: 1673871.5
 - StartTime: 150139.015625
 - StartTime: 150174.984375
-  Multiplier: -1913551.5
+  Multiplier: -1671567.5
 - StartTime: 150175
-  Multiplier: 1401551.5
+  Multiplier: 1415567.5
 - StartTime: 150175.015625
 - StartTime: 150211.984375
-  Multiplier: -1401551.5
+  Multiplier: -1413199.5
 - StartTime: 150212
-  Multiplier: 1657551.5
+  Multiplier: 2181199.5
 - StartTime: 150212.015625
 - StartTime: 150247.984375
-  Multiplier: -1657551.5
+  Multiplier: -2178895.5
 - StartTime: 150248
-  Multiplier: 2169551.5
+  Multiplier: 1922895.5
 - StartTime: 150248.015625
 - StartTime: 150283.984375
-  Multiplier: -2169551.5
+  Multiplier: -1920591.5
 - StartTime: 150284
-  Multiplier: 1913551.5
+  Multiplier: 1408591.5
 - StartTime: 150284.015625
 - StartTime: 150320.984375
-  Multiplier: -1913551.5
+  Multiplier: -1406223.5
 - StartTime: 150321
-  Multiplier: 1401551.5
+  Multiplier: 1662223.5
 - StartTime: 150321.015625
 - StartTime: 150356.984375
-  Multiplier: -1401551.5
+  Multiplier: -1659919.5
 - StartTime: 150357
-  Multiplier: 1657551.5
+  Multiplier: 2171919.5
 - StartTime: 150357.015625
 - StartTime: 150393.984375
-  Multiplier: -1657551.5
+  Multiplier: -2169551.5
 - StartTime: 150394
   Multiplier: 200
 - StartTime: 150394.015625
@@ -51567,12 +51569,12 @@ HitObjects:
   KeySounds: []
   EditorLayer: 4
 - StartTime: 137193
-  Lane: 4
+  Lane: 3
   HitSound: Whistle, Clap
   KeySounds: []
   EditorLayer: 5
 - StartTime: 137230
-  Lane: 3
+  Lane: 4
   HitSound: Whistle, Clap
   KeySounds: []
   EditorLayer: 6
@@ -51592,12 +51594,12 @@ HitObjects:
   KeySounds: []
   EditorLayer: 9
 - StartTime: 137375
-  Lane: 1
+  Lane: 2
   HitSound: Whistle, Clap
   KeySounds: []
   EditorLayer: 10
 - StartTime: 137412
-  Lane: 2
+  Lane: 1
   HitSound: Whistle, Clap
   KeySounds: []
   EditorLayer: 11
@@ -52094,12 +52096,12 @@ HitObjects:
   KeySounds: []
   EditorLayer: 4
 - StartTime: 149993
-  Lane: 4
+  Lane: 3
   HitSound: Whistle, Clap
   KeySounds: []
   EditorLayer: 5
 - StartTime: 150030
-  Lane: 3
+  Lane: 4
   HitSound: Whistle, Clap
   KeySounds: []
   EditorLayer: 6
@@ -52119,12 +52121,12 @@ HitObjects:
   KeySounds: []
   EditorLayer: 9
 - StartTime: 150175
-  Lane: 1
+  Lane: 2
   HitSound: Whistle, Clap
   KeySounds: []
   EditorLayer: 10
 - StartTime: 150212
-  Lane: 2
+  Lane: 1
   HitSound: Whistle, Clap
   KeySounds: []
   EditorLayer: 11
