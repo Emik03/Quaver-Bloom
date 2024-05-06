@@ -36866,8 +36866,29 @@ SliderVelocities:
 - StartTime: 137302.984375
   Multiplier: -10002040
 - StartTime: 137303
-  Multiplier: 10230309
+  Multiplier: 10460709
 - StartTime: 137303.015625
+- StartTime: 137307
+  Multiplier: -230400
+- StartTime: 137307.015625
+- StartTime: 137312
+  Multiplier: 230400
+- StartTime: 137312.015625
+- StartTime: 137316
+  Multiplier: -230400
+- StartTime: 137316.015625
+- StartTime: 137321
+  Multiplier: 230400
+- StartTime: 137321.015625
+- StartTime: 137325
+  Multiplier: -230400
+- StartTime: 137325.015625
+- StartTime: 137330
+  Multiplier: 230400
+- StartTime: 137330.015625
+- StartTime: 137334
+  Multiplier: -230400
+- StartTime: 137334.015625
 - StartTime: 137338.984375
   Multiplier: -10228235
 - StartTime: 137339
@@ -36901,8 +36922,29 @@ SliderVelocities:
 - StartTime: 137556.984375
   Multiplier: -9972491
 - StartTime: 137557
-  Multiplier: 10431160
+  Multiplier: 10200760
 - StartTime: 137557.015625
+- StartTime: 137561
+  Multiplier: 230400
+- StartTime: 137561.015625
+- StartTime: 137566
+  Multiplier: -230400
+- StartTime: 137566.015625
+- StartTime: 137570
+  Multiplier: 230400
+- StartTime: 137570.015625
+- StartTime: 137575
+  Multiplier: -230400
+- StartTime: 137575.015625
+- StartTime: 137580
+  Multiplier: 230400
+- StartTime: 137580.015625
+- StartTime: 137584
+  Multiplier: -230400
+- StartTime: 137584.015625
+- StartTime: 137589
+  Multiplier: 230400
+- StartTime: 137589.015625
 - StartTime: 137593.984375
   Multiplier: -10429029
 - StartTime: 137594
@@ -42429,8 +42471,29 @@ SliderVelocities:
 - StartTime: 150102.984375
   Multiplier: -1502164.25
 - StartTime: 150103
-  Multiplier: 1730433.125
+  Multiplier: 1960833.125
 - StartTime: 150103.015625
+- StartTime: 150107
+  Multiplier: -230400
+- StartTime: 150107.015625
+- StartTime: 150112
+  Multiplier: 230400
+- StartTime: 150112.015625
+- StartTime: 150116
+  Multiplier: -230400
+- StartTime: 150116.015625
+- StartTime: 150121
+  Multiplier: 230400
+- StartTime: 150121.015625
+- StartTime: 150125
+  Multiplier: -230400
+- StartTime: 150125.015625
+- StartTime: 150130
+  Multiplier: 230400
+- StartTime: 150130.015625
+- StartTime: 150134
+  Multiplier: -230400
+- StartTime: 150134.015625
 - StartTime: 150138.984375
   Multiplier: -1728359.5
 - StartTime: 150139
@@ -42464,8 +42527,29 @@ SliderVelocities:
 - StartTime: 150356.984375
   Multiplier: -1472615.5
 - StartTime: 150357
-  Multiplier: 1931284.25
+  Multiplier: 1700884.25
 - StartTime: 150357.015625
+- StartTime: 150361
+  Multiplier: 230400
+- StartTime: 150361.015625
+- StartTime: 150366
+  Multiplier: -230400
+- StartTime: 150366.015625
+- StartTime: 150370
+  Multiplier: 230400
+- StartTime: 150370.015625
+- StartTime: 150375
+  Multiplier: -230400
+- StartTime: 150375.015625
+- StartTime: 150380
+  Multiplier: 230400
+- StartTime: 150380.015625
+- StartTime: 150384
+  Multiplier: -230400
+- StartTime: 150384.015625
+- StartTime: 150389
+  Multiplier: 230400
+- StartTime: 150389.015625
 - StartTime: 150393.984375
   Multiplier: -1929153.125
 - StartTime: 150394
