@@ -177,12 +177,9 @@ TimingPoints:
   Bpm: 150
 - StartTime: 102394
   Bpm: 150
+  Hidden: true
 - StartTime: 102401
   Bpm: 150
-  Hidden: true
-- StartTime: 102402
-  Bpm: 150
-  Hidden: true
 - StartTime: 103994
   Bpm: 150
 - StartTime: 105594
@@ -51463,7 +51460,7 @@ HitObjects:
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
-- StartTime: 102402
+- StartTime: 102401
   Lane: 2
   HitSound: Finish
   KeySounds: []
