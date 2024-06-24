@@ -2,8 +2,8 @@ AudioFile: audio.mp3
 SongPreviewTime: 127994
 BackgroundFile: bloom-bg.png
 BannerFile: bloom-banner.png
-MapId: -1
-MapSetId: -1
+MapId: 145102
+MapSetId: 33923
 Mode: Keys4
 Title: Bloom
 Artist: Chime
